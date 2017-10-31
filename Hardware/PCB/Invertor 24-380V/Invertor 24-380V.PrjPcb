@@ -89,6 +89,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BCWFQWAL
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Invertor 24-380V\Design Rule Check - PCB for invertor.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
