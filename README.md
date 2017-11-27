@@ -29,8 +29,5 @@
 
 
 # Связь с создателем проекта
-* Электронная почта: hardware.sitara@gmail.com
+* Электронная почта: info@nordic-energy.ru
 * Канал на youtube: https://www.youtube.com/channel/UC5By7iwP9gssozXwc2Ydw4A
-
-
-
